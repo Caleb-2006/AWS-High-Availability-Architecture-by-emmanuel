@@ -1,4 +1,4 @@
-# Highly Available Web Architecture on AWS
+# # Highly Available Web Architecture on AWS
 
 ## Project Overview
 This project demonstrates how to deploy a fault-tolerant web application on AWS. I separated the architecture into Public and Private subnets to ensure security while maintaining high availability using Auto Scaling Groups.
@@ -15,4 +15,5 @@ This project demonstrates how to deploy a fault-tolerant web application on AWS.
 ## Tools Used
 - AWS EC2 & VPC
 - Bash Scripting
-- Application Load Balancer
+- Application Load BalancerHighly Available Web Architecture on AWS
+
