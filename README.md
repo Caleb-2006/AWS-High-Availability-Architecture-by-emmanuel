@@ -4,7 +4,9 @@
 This project demonstrates how to deploy a fault-tolerant web application on AWS. I separated the architecture into Public and Private subnets to ensure security while maintaining high availability using Auto Scaling Groups.
 
 ## Architecture
-![Architecture Diagram](diagrams/architecture.png)
+<div align="center">
+  <img src="diagrams/architecture.png" alt="Architecture Diagram" width="100%">
+</div>
 
 ## Key Features
 - **Security:** Web servers run in private subnets; only the Load Balancer is public.
