@@ -17,6 +17,7 @@ This project demonstrates how to deploy a fault-tolerant web application on AWS.
 ## Tools Used
 - AWS EC2 & VPC
 - Bash Scripting
-- Application Load BalancerHighly Available Web Architecture on AWS
+- Application Load Balancer
+
 
 
