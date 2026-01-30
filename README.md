@@ -18,6 +18,8 @@ This project demonstrates how to deploy a fault-tolerant web application on AWS.
 - AWS EC2 & VPC
 - Bash Scripting
 - Application Load Balancer
+- Aws auto scaling group
+- draw.io tool for architectural diagram
 
 
 
